@@ -1,5 +1,5 @@
 package constants
 
 var (
-	CreateTreeDeadline int64 = 1200
+	CreateTreeDeadline int64 = 30
 )
